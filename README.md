@@ -1,4 +1,4 @@
 wiki.HacksHackersAfrica.org
 ===========================
 
-HacksHackers Africa Wiki
+Visit The <a href="https://github.com/HacksHackersAfrica/wiki.HacksHackersAfrica.org/wiki">HacksHackers Africa Wiki</a>
